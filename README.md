@@ -1,4 +1,4 @@
-### Initial
+### Independent iOS developer, specializing in developing mobile apps for companies and special projects. 
 
 <!--
 **swiftcode/swiftcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
