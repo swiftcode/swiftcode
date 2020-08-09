@@ -1,5 +1,7 @@
 ### Independent iOS developer, specializing in developing mobile apps for companies and special projects. 
 
+### I also work on open source projects, so if you are looking for an additional iOS resource, drop me a note.
+
 <!--
 **swiftcode/swiftcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
