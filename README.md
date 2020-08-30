@@ -2,6 +2,8 @@ Independent iOS developer, specializing in developing mobile apps for companies 
 
 I also work on open source projects, so if you are looking for an additional iOS resource, drop me a note.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **swiftcode/swiftcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
