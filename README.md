@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftcode&label=Profile%20views&color=0e75b6&style=flat" alt="swiftcode" /> </p>
 
 - I’m looking to collaborate on **open-source iOS projects**
-- I work primarily in native iOS using Swift and SwiftUI.  Prior to iOS, I was a database developer for 20+ years.
+- I work primarily in native iOS using Swift and SwiftUI.  
+- Prior to iOS, I was a database developer for 20+ years, mainly working with manufacturing systems (MRP/ERP).
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
