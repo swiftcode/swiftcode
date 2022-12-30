@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftcode&label=Profile%20views&color=0e75b6&style=flat" alt="swiftcode" /> </p>
 
-- If you are hiring iOS developers, I'm available to discuss the project in more detail.
-- I’m also looking to collaborate on open-source iOS projects
+- I am an independent iOS developer that can work individually or supplement an existing team.  Contact me to discuss your mobile project(s).
+- I’m also available to collaborate on open-source iOS projects
 - I've worked with a variety of different languages and systems, but I currently work primarily in native iOS using Swift and SwiftUI.  
 - Prior to iOS, I was a database developer for 20+ years, mainly working with manufacturing systems (MRP/ERP).
 
