@@ -1,6 +1,4 @@
 ![Header](./header-image.png)
-<h1 align="center">Michael Campbell</h1>
-<h3 align="center">Independent iOS developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftcode&label=Profile%20views&color=0e75b6&style=flat" alt="swiftcode" /> </p>
 
