@@ -4,7 +4,7 @@
 
 - I am an independent iOS developer that can work individually or supplement an existing team.  Contact me to discuss your mobile project(s).
 - I’m also available to collaborate on open-source iOS projects
-- I've worked with a variety of different languages and systems, but I currently work primarily in native iOS using Swift and SwiftUI.  
+- I've worked with a variety of different languages and systems, but currently I work in native iOS using Swift and SwiftUI.  
 - Prior to iOS, I was a database developer for 20+ years, mainly working with manufacturing systems (MRP/ERP).
 
 <p align="left">
