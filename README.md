@@ -1,3 +1,4 @@
+![Header](./header-image.png)
 <h1 align="center">Michael Campbell</h1>
 <h3 align="center">Independent iOS developer</h3>
 
