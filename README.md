@@ -30,7 +30,10 @@
      style="float: left; margin-right: 10px;" />
 <img src="fitlivin.png"
      alt="Fitlivin"
-     style="float: left; margin-right: 10px;" />     
+     style="float: left; margin-right: 10px;" />
+<img src="faithlink.png"
+     alt="Faithlink"
+     style="float: left; margin-right: 10px;" />       
 
 <p align="left">
 </p>
