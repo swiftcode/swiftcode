@@ -25,6 +25,9 @@
 <img src="uppernets.png"
      alt="Uppernets"
      style="float: left; margin-right: 10px;" />
+<img src="tcslogo.png"
+     alt="TCS"
+     style="float: left; margin-right: 10px;" />
 <p align="left">
 Uppernets
 </p>
