@@ -22,7 +22,7 @@
 
 <h3 align="left">Some apps I've worked on</h3>
 <p align="left">
-(./uppernets.png)
+![](./uppernets.png)
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=swiftcode&show_icons=true&locale=en&count_private=true" alt="swiftcode" /></p>-->
