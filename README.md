@@ -40,10 +40,7 @@
 <img src="tapdistance.png"
      alt="Tapdistance"
      style="float: left; margin-right: 10px;" />      
-<p align="left">
-</p>
-<p></p>
-<p></p>
+<p align="left"></p>
 <br>
 <p style="color: blue; font-size: 6px"><small>*All logos belong to the respective companies</small></p>     
 <!--
