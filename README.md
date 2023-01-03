@@ -23,6 +23,9 @@
 <h3 align="left">Some apps I've worked on</h3>
 <p align="left">
 ![](./uppernets.png)
+<img src="uppernets.png"
+     alt="Uppernets"
+     style="float: left; margin-right: 10px;" />
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=swiftcode&show_icons=true&locale=en&count_private=true" alt="swiftcode" /></p>-->
