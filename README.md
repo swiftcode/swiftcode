@@ -25,7 +25,8 @@
 <img src="uppernets.png"
      alt="Uppernets"
      style="float: left; margin-right: 10px;" />
+<p align="left">
 Uppernets
-
+</p>
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=swiftcode&show_icons=true&locale=en&count_private=true" alt="swiftcode" /></p>-->
