@@ -44,6 +44,7 @@
 </p>
 <p></p>
 <p></p>
+<br>
 <p style="color: blue; font-size: 6px"><small>*All logos belong to the respective companies</small></p>     
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=swiftcode&show_icons=true&locale=en&count_private=true" alt="swiftcode" /></p>-->
