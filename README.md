@@ -34,7 +34,9 @@
 <img src="faithlink.png"
      alt="Faithlink"
      style="float: left; margin-right: 10px;" />       
-
+<img src="hctb.png"
+     alt="Here Comes The Bus"
+     style="float: left; margin-right: 10px;" /> 
 <p align="left">
 </p>
 <!--
