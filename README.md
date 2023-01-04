@@ -14,11 +14,11 @@
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
 
 ![GitHub](https://img.shields.io/badge/github-%23026AA7.svg?style=for-the-badge&logo=github&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-23026AA7?style=for-the-badge&logo=ios&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-23026AA7?style=for-the-badge&logo=macos&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23026AA7?style=for-the-badge&logo=ios&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-%23026AA7?style=for-the-badge&logo=macos&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23026AA7.svg?style=for-the-badge&logo=Vim&logoColor=white)     
-![Zoom](https://img.shields.io/badge/Zoom-23026AA7?style=for-the-badge&logo=zoom&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-%23026AA7?style=for-the-badge&logo=zoom&logoColor=white)
 </p>
 
 <h3 align="left">Some of the apps I've worked on:</h3>
