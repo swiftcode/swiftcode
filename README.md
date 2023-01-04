@@ -1,7 +1,9 @@
 ![Header](./header-image.png)
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftcode&label=Profile%20views&color=0e75b6&style=flat" alt="swiftcode" /> </p>
 <p align="left"> <img src="https://badgen.net/github/commits/swiftcode/swiftcode"/> </p>
+-->
 
 - I am a freelance iOS developer.  I have been responsible for the entire app life cycle, from design to deployment and have been brought in to supplement existing teams.  I can work in either environment.
 - I’m also available to collaborate on open-source iOS projects
@@ -23,10 +25,6 @@
 ![Vim](https://img.shields.io/badge/Vim-%23026AA7.svg?style=for-the-badge&logo=Vim&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23026AA7?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-%23026AA7?style=for-the-badge&logo=zoom&logoColor=white)
-     
-
-     
-     
 </p>
 
 <h3 align="left">Some of the apps I've worked on:</h3>
