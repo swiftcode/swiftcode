@@ -17,7 +17,7 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23026AA7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23026AA7?style=for-the-badge&logo=ios&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-%23026AA7?style=for-the-badge&logo=macos&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-%23026AA7?style=for-the-badge&logo=apple&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-%23026AA7?style=for-the-badge&logo=slack&logoColor=white)
 ![SwiftLint](https://img.shields.io/badge/swiftlint-%23026AA7?style=for-the-badge&logo=swift&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
