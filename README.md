@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftcode&label=Profile%20views&color=0e75b6&style=flat" alt="swiftcode" /> </p>
 
-- I am an independent iOS developer.  I have been responsible for the entire app life cycle, from design to deployment and have been brought in to supplement existing teams.  I can work in either environment.
+- I am an freelance iOS developer.  I have been responsible for the entire app life cycle, from design to deployment and have been brought in to supplement existing teams.  I can work in either environment.
 - I’m also available to collaborate on open-source iOS projects
 - I've worked with a variety of different languages and systems.  Currently, I work in native iOS using Swift and SwiftUI.  
 - Prior to iOS, I was a database developer for 20+ years, mainly working with manufacturing systems (MRP/ERP).
