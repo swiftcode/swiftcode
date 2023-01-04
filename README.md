@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23026AA7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23026AA7?style=for-the-badge&logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-%23026AA7?style=for-the-badge&logo=macos&logoColor=white)
-![Slack](https://img.shields.io/badge/mac%20os-%23026AA7?style=for-the-badge&logo=slack&logoColor=white)     
+![Slack](https://img.shields.io/badge/slack-%23026AA7?style=for-the-badge&logo=slack&logoColor=white)     
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23026AA7.svg?style=for-the-badge&logo=Vim&logoColor=white)     
 ![Zoom](https://img.shields.io/badge/Zoom-%23026AA7?style=for-the-badge&logo=zoom&logoColor=white)
