@@ -20,7 +20,7 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 </p>
 
-<h3 align="left">Some apps I've worked on:</h3>
+<h3 align="left">Some of apps I've worked on:</h3>
 <p align="left">
 <img src="uppernets.png"
      alt="Uppernets"
