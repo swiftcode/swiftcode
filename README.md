@@ -19,7 +19,7 @@
 ![Slack](https://img.shields.io/badge/slack-%23026AA7?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23026AA7.svg?style=for-the-badge&logo=Vim&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23026AA7?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-%23026AA7?style=for-the-badge&logo=zoom&logoColor=white)
 </p>
 
