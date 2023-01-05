@@ -6,6 +6,7 @@
 -->
 
 <h3 align="left">About me:</h3>
+
 - I am a freelance iOS developer.  As an indepedent programmer, I have developed apps from design to deployment, but also have been added as an additional resource to existing teams.  I can work in either environment.
 - I'm available to collaborate on open-source iOS projects.
 - I've worked with a variety of languages and systems.  Currently, I work in native iOS using Swift and SwiftUI.  
