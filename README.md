@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
 
-![GitHub](https://img.shields.io/badge/github-%22222222.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%22222227.svg?style=for-the-badge&logo=github&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23026AA7?style=for-the-badge&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-%23026AA7?style=for-the-badge&logo=apple&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-%23026AA7?style=for-the-badge&logo=slack&logoColor=white)
