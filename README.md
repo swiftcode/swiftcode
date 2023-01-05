@@ -6,14 +6,11 @@
 -->
 
 <h3 align="left">About me:</h3>
-<p align="left"> 
+
 - I am a freelance iOS developer.  As an indepedent programmer, I have developed apps from design to deployment, but also have been added as an additional resource to existing teams.  I can work in either environment.
 - I'm available to collaborate on open-source iOS projects.
 - I've worked with a variety of languages and systems.  Currently, I work in native iOS using Swift and SwiftUI.  
 - Prior to iOS, I was a database developer for 20+ years, primarily working with manufacturing systems (MRP/ERP).
-</p>
-
-<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
