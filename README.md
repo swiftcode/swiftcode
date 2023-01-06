@@ -8,7 +8,7 @@
 <h3 align="left">About me:</h3>
 
 - I am a freelance iOS developer.  I have worked with customers in all stages of the software lifecycle.  From design to deployment. 
-- I have worked as the sole developer on projects but also have been added as an additional resource to existing teams.  I can work in either environment.
+- I've been the sole developer on projects but also an additional resource to existing teams.  I can work in either environment.
 - I'm available to collaborate on open-source iOS projects.
 - I've worked with a variety of languages and systems.  Currently, I work in native iOS using Swift and SwiftUI.  
 - Prior to iOS, I was a database developer for 20+ years, primarily working with manufacturing systems (MRP/ERP).
