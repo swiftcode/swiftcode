@@ -7,11 +7,9 @@
 
 <h3 align="left">About me:</h3>
 
-- I am a freelance iOS developer.  I have worked with customers in all stages of the software lifecycle.  From design to deployment. 
-- I've been the sole developer on some projects but also as an additional resource to existing teams.  I can work in either environment.
-- I'm available to collaborate on open-source iOS projects.
-- I've worked with a variety of languages and systems.  Currently, I work in native iOS using Swift and SwiftUI.  
-- Prior to iOS, I was a database developer for 20+ years, primarily working with manufacturing systems (MRP/ERP).
+I’m a freelance iOS developer.  I work with clients of all sizes, from the independent shop to large corporations.  I have often consulted on app ideas to discuss their feasibility and to solidify the ideas a company has for building out their mobile presence.  As a developer, I can take your idea from design to deployment, or I can be added as an additional resource to an existing team.  I’ve worked with a variety of languages and systems.  Currently, I work in native iOS using Swift and SwiftUI.  Prior to iOS, I was a database developer for 20+ years, primarily working with manufacturing systems (MRP/ERP)
+
+I’m available to work on open-source iOS projects.  If you have a project you need developers for, please get in touch.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
