@@ -31,7 +31,6 @@ I’m available to work on open-source iOS projects.  If you have a project you 
 <p align="left">
 <img src="uppernets.png"
      alt="Uppernets"
-     unselectable="on"
      style="float: left; margin-right: 10px;" />
 <img src="tcslogo.png"
      alt="TCS"
