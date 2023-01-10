@@ -29,6 +29,7 @@ I’m available to work on open-source iOS projects.  If you have a project you 
 
 <h3 align="left">Some of the apps I've worked on:</h3>
 <p align="left">
+<a href="#"><img src="uppernets.png" alt="Uppernets" style="float: left; margin-right: 10px;"/></a>     
 <img a href="#"
      src="uppernets.png"
      alt="Uppernets"
