@@ -29,7 +29,13 @@ I’m available to work on open-source iOS projects.  If you have a project you 
 
 <h3 align="left">Some of the apps I've worked on:</h3>
 <p align="left">
-<a href=""><img src="uppernets.png" alt="Uppernets" style="float: left; margin-right: 10px;"/></a>     
+<a href="#"><img src="uppernets.png" alt="Uppernets" style="float: left; margin-right: 10px;"/></a>     
+<a href="#"><img src="tcslogo.png" alt="TCS" style="float: left; margin-right: 10px;"/></a>  
+<a href="#"><img src="fitlivin.png" alt="Fitlivin" style="float: left; margin-right: 10px;"/></a>  
+<a href="#"><img src="faithlink.png" alt="Faithlink" style="float: left; margin-right: 10px;"/></a>  
+<a href="#"><img src="hctb.png" alt="Here Comes The Bus" style="float: left; margin-right: 10px;"/></a>  
+<a href="#"><img src="tapdistance.png" alt="Tapdistance" style="float: left; margin-right: 10px;"/></a>  
+<a href="#"><img src="diabetestrakr.png" alt="DiabetesTrakr" style="float: left; margin-right: 10px;"/></a>  
 <img a href="#"
      src="uppernets.png"
      alt="Uppernets"
