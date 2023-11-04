@@ -7,7 +7,7 @@
 
 <h3 align="left">About me:</h3>
 
-I’m an independent iOS developer.  I work with clients of all sizes, from the independent shop to large corporations.  I have often consulted on app ideas to discuss their feasibility and to solidify the ideas a company has for building out their mobile presence.  As a developer, I can take your idea from design to deployment, or I can be added as an additional resource to an existing team.  
+I’m an independent iOS developer.  I work with clients of all sizes, from the small shop to large corporations.  I have often consulted on app ideas to discuss their feasibility and to solidify the ideas a company has for building out their mobile presence.  As a developer, I can take your idea from design to deployment, or I can be added as an additional resource to an existing team.  
 
 I’ve worked with a variety of languages and systems.  Currently, I work in native iOS using Swift and SwiftUI.  Prior to iOS, I was a database developer for 20+ years, primarily working with manufacturing systems (MRP/ERP)
 
