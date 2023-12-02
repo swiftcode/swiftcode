@@ -7,14 +7,14 @@
 
 <h3 align="left">About me:</h3>
 
-I’m a freelance iOS developer.  I work with clients of all sizes, from the independent shop to large corporations.  I have often consulted on app ideas to discuss their feasibility and to solidify the ideas a company has for building out their mobile presence.  As a developer, I can take your idea from design to deployment, or I can be added as an additional resource to an existing team.  
+I’m an independent iOS developer.  I work with clients of all sizes, from the small shop to large corporations.  I have often consulted on app ideas to discuss their feasibility and to solidify the ideas a company has for building out their mobile presence.  As a developer, I can take your idea from design to deployment, or I can be added as an additional resource to an existing team.  
 
 I’ve worked with a variety of languages and systems.  Currently, I work in native iOS using Swift and SwiftUI.  Prior to iOS, I was a database developer for 20+ years, primarily working with manufacturing systems (MRP/ERP)
 
 I’m available to work on open-source iOS projects.  If you have a project you need developers for, please get in touch.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="swiftdata.png" alt="swift" width="40" height="40"/> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
+<p align="left"><a href="https://developer.apple.com/xcode/swiftdata/" target="" rel=""><img src="swiftdata.png" alt="" width="40" height="40"/><a href="https://www.swift.org/" target="" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>  
 
 ![GitHub](https://img.shields.io/badge/github-%23026AA7?style=for-the-badge&logo=github&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23026AA7?style=for-the-badge&logo=apple&logoColor=white)
