@@ -32,12 +32,13 @@ I’m available to work on open-source iOS projects.  If you have a project you 
 <a href="#"><img src="uppernets.png" alt="Uppernets" style="float: left; margin-right: 10px;"/></a>
 <a href="#"><img src="chronicle.png" alt="Chronicle" style="float: left; margin-right: 10px;"/></a>
 <a href="#"><img src="fitlivin.png" alt="Fitlivin" style="float: left; margin-right: 10px;"/></a>
+<a href="#"><img src="becks.png" alt="Becks" style="float: left; margin-right: 10px;"/></a>  
 <a href="#"><img src="tcslogo.png" alt="TCS" style="float: left; margin-right: 10px;"/></a>  
 <a href="#"><img src="faithlink.png" alt="Faithlink" style="float: left; margin-right: 10px;"/></a>
 <a href="#"><img src="hctb.png" alt="Here Comes The Bus" style="float: left; margin-right: 10px;"/></a>
 <a href="#"><img src="tapdistance.png" alt="Tapdistance" style="float: left; margin-right: 10px;"/></a>
 <a href="#"><img src="diabetestrakr.png" alt="DiabetesTrakr" style="float: left; margin-right: 10px;"/></a>
-<a href="#"><img src="fl01.png" alt="FritoLay" style="float: left; margin-right: 10px;"/></a>
+<a href="#"><img src="frito.png" alt="FritoLay" style="float: left; margin-right: 10px;"/></a>
   
 <p align="left"></p>
 <p><sub>*All logos belong to the respective companies</sub></p>     
