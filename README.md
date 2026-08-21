@@ -27,7 +27,7 @@ I’m available to work on open-source iOS projects.  If you have a project you 
 ![Zoom](https://img.shields.io/badge/Zoom-%23026AA7?style=for-the-badge)
 </p>
 
-<h3 align="left">Some of the apps I've worked on:</h3>
+<h3 align="left">Featured mobile applications:</h3>
 <p align="left">
 <a href="#"><img src="uppernets.png" alt="Uppernets" style="float: left; margin-right: 10px;"/></a>
 <a href="#"><img src="chronicle.png" alt="Chronicle" style="float: left; margin-right: 10px;"/></a>
